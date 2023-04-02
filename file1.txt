@@ -1,0 +1,1 @@
+Adding password and OTP related instructions for user in this code
